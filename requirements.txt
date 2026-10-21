@@ -1,4 +1,8 @@
-numpy==1.26.4
-matplotlib==3.9.2
-torch==2.2.2
-torchvision==0.17.2
+numpy
+matplotlib
+pandas
+tqdm
+ipykernel
+jupyter
+torch --index-url https://download.pytorch.org/whl/cu124
+torchvision --index-url https://download.pytorch.org/whl/cu124
